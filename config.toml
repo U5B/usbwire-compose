@@ -53,8 +53,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Site logo
   [params.logo]
-    lightMode = "USB_icon.svg"
-    darkMode = "USB_icon.svg"
+   lightMode = "favicon.ico"
+   darkMode = "favicon.ico"
 
   [params.source]
   # name = "GitHub"
