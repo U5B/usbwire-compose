@@ -29,3 +29,10 @@ HUGO_VERSION = "0.74.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/discord"
+  to = "https://i.usbwire.net/discord"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
