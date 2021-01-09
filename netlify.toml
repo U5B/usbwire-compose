@@ -37,9 +37,9 @@ HUGO_ENABLEGITINFO = "true"
   force = true
   headers = {}
 
-[[redirects]]
-  from = "https://usbwire.net/"
-  to = "https://usbwire.net/index.html"
-  status = 200
-  force = true
-  headers = {}
+#[[redirects]]
+# from = "https://usbwire.net/"
+# to = "https://usbwire.net/index.html"
+# status = 200
+# force = true
+# headers = {}
