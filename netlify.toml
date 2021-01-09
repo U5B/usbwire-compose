@@ -36,3 +36,17 @@ HUGO_ENABLEGITINFO = "true"
   status = 200
   force = true
   headers = {}
+
+[[redirects]]
+  from = "https://usbwire.net/"
+  to = "https://usbwire.net/index.html"
+  status = 200
+  force = true
+  headers = {}
+
+[[redirects]]
+  from = "/*"
+  to = "https://i.usbwire.net/:splat"
+  status = 404
+  force = true
+  headers = {}
