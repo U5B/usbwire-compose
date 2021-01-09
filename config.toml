@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Discord"
     weight = 3
-    url = "https://inv.wtf/usb"
+    url = "https://usbwire.net/discord"
 
 [markup]
   [markup.goldmark]
