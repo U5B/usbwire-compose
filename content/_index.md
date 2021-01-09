@@ -9,7 +9,7 @@ title = "usb"
 
 Don't push the big red buttons.
 
-{{< button "https://test.usbwire.net/discord" "My Discord" >}} {{< button "/bigredbutton" "Big Red Button" >}}
+{{< button "https://usbwire.net/discord" "My Discord" >}} {{< button "/bigredbutton" "Big Red Button" >}}
 
 {{< /column >}}
 {{< column >}}
