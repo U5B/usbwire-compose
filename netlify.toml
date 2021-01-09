@@ -35,4 +35,4 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://i.usbwire.net/discord"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
+  headers = {}
