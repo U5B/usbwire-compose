@@ -10,10 +10,10 @@ enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
-[[menu.main]]
-    name = "Docs"
-    weight = 2
-    url = "docs/"
+#[[menu.main]]
+#   name = "Docs"
+#   weight = 2
+#   url = "docs/"
 
 [[menu.main]]
     name = "Discord"
