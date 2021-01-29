@@ -59,7 +59,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.source]
   # name = "GitHub"
   # icon = "github.svg"
-    url = "mc.usbwire.net"
+  # url = "mc.usbwire.net"
 
   # optional
   # attribution. Feel free to delete this
